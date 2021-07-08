@@ -1,0 +1,41 @@
+h1 {
+	text-align: center;
+	border: 5px solid black;
+	border-radius: 10px;
+	width: 710px;
+	margin-left: 30%;
+	padding: 30px;
+	border-color: black;
+	background-color: rgba(9, 23, 91, 0.8);
+	color: white;
+	font-size: 340%;
+}
+#container {
+	width: 50%;
+	min-width: 560px;
+	max-width: 600px;
+	margin: 0px auto;
+	border: 0.1px solid gray;
+}
+#labela, #labelb, #labelc, #labeld {
+	display: inline-block;
+	text-align: right;
+	width: 25%;
+	margin: 1%;
+	white-space: nowrap;
+}
+#inputa, #inputb, #inputc, #inputd {
+	width: 52%;
+	margin: 1%;
+}
+#boutona, #boutonb {
+	width: 15%;
+}
+#message {
+	width: 68.7%;
+	margin: 1%;
+}
+#valeurs {
+	margin-left: 1%;
+	resize: none;
+}
